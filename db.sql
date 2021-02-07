@@ -4,3 +4,4 @@ H2DB
 MongoDB
 adeolu
 TSDB=dev
+s3=master
